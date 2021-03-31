@@ -26,7 +26,7 @@
         <log4j2.version>2.11.0</log4j2.version>
 
         <!-- core tools used -->
-        <guava.version>27.1-jre</guava.version>         <!-- http://code.google.com/p/guava-libraries/, 20 is the last Java 6 compatible one -->
+        <guava.version>29.0-jre</guava.version>         <!-- http://code.google.com/p/guava-libraries/, 20 is the last Java 6 compatible one -->
         <xtext.version>2.23.0</xtext.version>           <!-- version of xtext, xtend, and the related libs -->
         <jodatime.version>2.10.6</jodatime.version>
         <jsap.version>2.1</jsap.version>
