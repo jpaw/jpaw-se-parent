@@ -33,7 +33,7 @@
         <reflections.version>0.9.10</reflections.version>  <!-- 0.9.11 git issues while scanning -->
         <icu.version>69.1</icu.version>
         <disruptor.version>3.3.10</disruptor.version>
-        <jackson.version>2.13.1</jackson.version>
+        <jackson.version>2.13.2.1</jackson.version>
 
 
         <!-- new dependencies required for jigsaw (Java 9 and up) -->
